@@ -368,8 +368,8 @@ The resulting test accuracy is approximately **95.39%**.
 Clone the repository and install the required libraries:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/somu-r/Optimizing-Wastewater-Treatment-Through-Artificial-Intelligence.git
+cd Optimise Wastewater Treatment Through AI
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost
 ```
 
