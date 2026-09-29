@@ -369,7 +369,7 @@ Clone the repository and install the required libraries:
 
 ```bash
 git clone https://github.com/somu-r/Optimizing-Wastewater-Treatment-Through-Artificial-Intelligence.git
-cd Optimise Wastewater Treatment Through AI
+cd Optimizing Wastewater Treatment Through AI
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost
 ```
 
@@ -380,7 +380,7 @@ Make sure `custom-dataset.csv` is available in the location expected by the note
 ### Using Jupyter Notebook
 
 ```bash
-jupyter notebook Optimise_Waste_Water_Treatment_Through_AI.ipynb
+jupyter notebook Optimizing_Waste_Water_Treatment_Through_AI.ipynb
 ```
 
 ### Using Google Colab
@@ -388,7 +388,7 @@ jupyter notebook Optimise_Waste_Water_Treatment_Through_AI.ipynb
 Upload:
 
 ```text
-Optimise_Waste_Water_Treatment_Through_AI.ipynb
+Optimizing_Waste_Water_Treatment_Through_AI.ipynb
 custom-dataset.csv
 ```
 
