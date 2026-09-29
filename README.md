@@ -1,4 +1,4 @@
-# Optimise Wastewater Treatment Through AI
+# Optimizing Wastewater Treatment Through AI
 
 A machine learning project that uses water-quality parameters to predict whether a water sample is **potable (drinkable)** or **non-potable**. The notebook performs exploratory data analysis, data preprocessing, model training, evaluation, and hyperparameter tuning using several classification algorithms.
 
